@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arslan Asad Qazi
-- 👀 I’m interested in UI/UX Designing and Machine Learning.
+- 👀 I’m interested in UI/UX Designing and DevOps.
 - 🌱 I’m currently learning Computer Science from Fast Nuces Karachi.
 
 <!---
