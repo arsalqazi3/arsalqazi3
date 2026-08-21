@@ -5,54 +5,52 @@ Final-year Computer Science student focused on DevOps, Cloud, and DevSecOps engi
 ![Skills](header-skills.svg)
 
 **Cloud**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-555555?style=flat)
+![AWS](https://img.shields.io/badge/AWS-b87333?style=flat-square&logo=amazonaws&logoColor=141414)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-b87333?style=flat-square&logoColor=141414)
 
 **CI/CD & IaC**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-555555?style=flat)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-b87333?style=flat-square&logo=jenkins&logoColor=141414)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-b87333?style=flat-square&logo=githubactions&logoColor=141414)
+![GitOps](https://img.shields.io/badge/GitOps-b87333?style=flat-square&logoColor=141414)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-b87333?style=flat-square&logo=argo&logoColor=141414)
+![Terraform](https://img.shields.io/badge/Terraform-b87333?style=flat-square&logo=terraform&logoColor=141414)
+![Ansible](https://img.shields.io/badge/Ansible-b87333?style=flat-square&logo=ansible&logoColor=141414)
 
 **Containers & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-555555?style=flat)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-b87333?style=flat-square&logo=docker&logoColor=141414)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-b87333?style=flat-square&logo=kubernetes&logoColor=141414)
+![EKS](https://img.shields.io/badge/EKS-b87333?style=flat-square&logoColor=141414)
+![Helm](https://img.shields.io/badge/Helm-b87333?style=flat-square&logo=helm&logoColor=141414)
 
 **DevSecOps**
-![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?style=flat&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white)
-![gitleaks](https://img.shields.io/badge/gitleaks-555555?style=flat)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-b87333?style=flat-square&logo=sonarqube&logoColor=141414)
+![Snyk](https://img.shields.io/badge/Snyk-b87333?style=flat-square&logo=snyk&logoColor=141414)
+![Trivy](https://img.shields.io/badge/Trivy-b87333?style=flat-square&logo=trivy&logoColor=141414)
+![gitleaks](https://img.shields.io/badge/gitleaks-b87333?style=flat-square&logoColor=141414)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-b87333?style=flat-square&logo=owasp&logoColor=141414)
 
 **Monitoring**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-555555?style=flat)
+![Prometheus](https://img.shields.io/badge/Prometheus-b87333?style=flat-square&logo=prometheus&logoColor=141414)
+![Grafana](https://img.shields.io/badge/Grafana-b87333?style=flat-square&logo=grafana&logoColor=141414)
+![Loki](https://img.shields.io/badge/Loki-b87333?style=flat-square&logoColor=141414)
 
 **Web / Infra**
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
-![Certbot](https://img.shields.io/badge/Certbot-555555?style=flat)
+![Nginx](https://img.shields.io/badge/Nginx-b87333?style=flat-square&logo=nginx&logoColor=141414)
+![Caddy](https://img.shields.io/badge/Caddy-b87333?style=flat-square&logo=caddy&logoColor=141414)
+![Certbot](https://img.shields.io/badge/Certbot-b87333?style=flat-square&logoColor=141414)
 
 **Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3BABC3?style=flat&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-b87333?style=flat-square&logo=fastapi&logoColor=141414)
+![Flask](https://img.shields.io/badge/Flask-b87333?style=flat-square&logo=flask&logoColor=141414)
+![REST APIs](https://img.shields.io/badge/REST_APIs-b87333?style=flat-square&logoColor=141414)
 
 **Core Tools**
-![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GHCR](https://img.shields.io/badge/GHCR-555555?style=flat)
-![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-FCC624?style=flat&logo=linux&logoColor=141414)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-b87333?style=flat-square&logo=git&logoColor=141414)
+![GitHub](https://img.shields.io/badge/GitHub-b87333?style=flat-square&logo=github&logoColor=141414)
+![GHCR](https://img.shields.io/badge/GHCR-b87333?style=flat-square&logoColor=141414)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-b87333?style=flat-square&logo=linux&logoColor=141414)
+![Bash](https://img.shields.io/badge/Bash-b87333?style=flat-square&logo=gnubash&logoColor=141414)
 
 ![Contact](header-contact.svg)
 
-<a href="https://arslanasadqazi.is-a.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-b87333?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="mailto:arslanaqazi3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/arslanasadqazi123/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-arslanasadqazi.is--a.dev-b87333?style=flat-square&logo=vercel&logoColor=141414)](https://arslanasadqazi.is-a.dev)&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-arslanaqazi3%40gmail.com-b87333?style=flat-square&logo=gmail&logoColor=141414)](mailto:arslanaqazi3@gmail.com)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-arslanasadqazi123-b87333?style=flat-square&logo=linkedin&logoColor=141414)](https://www.linkedin.com/in/arslanasadqazi123/)
