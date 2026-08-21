@@ -15,8 +15,3 @@ Portfolio: [arslanasadqazi.is-a.dev](https://arslanasadqazi.is-a.dev) · Email: 
 ![AWS](https://img.shields.io/badge/AWS-141414?style=flat&logo=amazonaws&logoColor=b87333)
 ![Prometheus](https://img.shields.io/badge/Prometheus-141414?style=flat&logo=prometheus&logoColor=b87333)
 ![Grafana](https://img.shields.io/badge/Grafana-141414?style=flat&logo=grafana&logoColor=b87333)
-
-![Projects](header-projects.svg)
-
-- **LogSense** — FastAPI backend running anomaly detection, paired with a Next.js dashboard. Deployed on AWS EC2 with Docker and GitHub Actions CI/CD.
-- **SentinelForge** — A secure CI/CD pipeline with scanning and gating built into every stage. In progress.
