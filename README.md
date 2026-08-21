@@ -4,7 +4,7 @@ Final-year Computer Science student focused on DevOps, Cloud, and DevSecOps engi
 
 Portfolio: [arslanasadqazi.is-a.dev](https://arslanasadqazi.is-a.dev) · Email: [arslanaqazi3@gmail.com](mailto:arslanaqazi3@gmail.com) · LinkedIn: [arslanasadqazi123](https://www.linkedin.com/in/arslanasadqazi123/)
 
-## Skills
+![Skills](header-skills.svg)
 
 ![Docker](https://img.shields.io/badge/Docker-141414?style=flat&logo=docker&logoColor=b87333)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-141414?style=flat&logo=kubernetes&logoColor=b87333)
@@ -16,7 +16,7 @@ Portfolio: [arslanasadqazi.is-a.dev](https://arslanasadqazi.is-a.dev) · Email: 
 ![Prometheus](https://img.shields.io/badge/Prometheus-141414?style=flat&logo=prometheus&logoColor=b87333)
 ![Grafana](https://img.shields.io/badge/Grafana-141414?style=flat&logo=grafana&logoColor=b87333)
 
-## Projects
+![Projects](header-projects.svg)
 
 - **LogSense** — FastAPI backend running anomaly detection, paired with a Next.js dashboard. Deployed on AWS EC2 with Docker and GitHub Actions CI/CD.
 - **SentinelForge** — A secure CI/CD pipeline with scanning and gating built into every stage. In progress.
