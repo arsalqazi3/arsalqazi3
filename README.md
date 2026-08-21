@@ -2,8 +2,6 @@
 
 Final-year Computer Science student focused on DevOps, Cloud, and DevSecOps engineering.
 
-Portfolio: [arslanasadqazi.is-a.dev](https://arslanasadqazi.is-a.dev) · Email: [arslanaqazi3@gmail.com](mailto:arslanaqazi3@gmail.com) · LinkedIn: [arslanasadqazi123](https://www.linkedin.com/in/arslanasadqazi123/)
-
 ![Skills](header-skills.svg)
 
 **Cloud**
@@ -52,3 +50,7 @@ Portfolio: [arslanasadqazi.is-a.dev](https://arslanasadqazi.is-a.dev) · Email: 
 ![GHCR](https://img.shields.io/badge/GHCR-141414?style=flat)
 ![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-141414?style=flat&logo=linux&logoColor=b87333)
 ![Bash](https://img.shields.io/badge/Bash-141414?style=flat&logo=gnubash&logoColor=b87333)
+
+![Contact](header-contact.svg)
+
+Portfolio: [arslanasadqazi.is-a.dev](https://arslanasadqazi.is-a.dev) · Email: [arslanaqazi3@gmail.com](mailto:arslanaqazi3@gmail.com) · LinkedIn: [arslanasadqazi123](https://www.linkedin.com/in/arslanasadqazi123/)
