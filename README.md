@@ -35,3 +35,5 @@ Final-year Computer Science student focused on DevOps, Cloud, and DevSecOps engi
 **Core Tools**
 
 ![Core Tools](skills-coretools.svg)
+
+[![Email](contact-email.svg)](mailto:arslanaqazi3@gmail.com)
