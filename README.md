@@ -2,7 +2,7 @@
 
 Final-year Computer Science student focused on DevOps, Cloud, and DevSecOps engineering.
 
-[arslanaqazi3@gmail.com](mailto:arslanaqazi3@gmail.com)
+Let's build something: [arslanaqazi3@gmail.com](mailto:arslanaqazi3@gmail.com)
 
 ![Skills](header-skills.svg)
 
